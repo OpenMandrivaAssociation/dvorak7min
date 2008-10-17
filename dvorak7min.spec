@@ -7,6 +7,7 @@ Group:		Games/Other
 Source:		dvorak7min_1.6.1.orig.tar.gz
 # debian patch
 Patch0:		dvorak7min_1.6.1-9.diff.gz
+BuildRequires:	ncurses-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 %description
 dvorak7min is a typing tutor to help you learn dvorak.
