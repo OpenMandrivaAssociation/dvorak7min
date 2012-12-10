@@ -31,3 +31,11 @@ dvorak7min is a typing tutor to help you learn dvorak.
 %defattr(-,root,root)
 %doc ChangeLog COPYING README
 %{_bindir}/%{name}
+
+
+%changelog
+* Fri Oct 17 2008 Nicolas Vigier <nvigier@mandriva.com> 1.6.1-1mdv2009.1
++ Revision: 294734
+- import dvorak7min
+
+
