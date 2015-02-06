@@ -1,6 +1,6 @@
 Name:		dvorak7min
 Version:	1.6.1
-Release:	%mkrel 1
+Release:	2
 Summary:	Typing tutor for dvorak keyboards
 License:	GPLv2+
 Group:		Games/Other
